@@ -23,7 +23,7 @@
 git clone https://github.com/tioandriyanto/crud-rumah-makan.git
 cd crud-rumah-makan
 ```
-
+ 
 ### 2️⃣ Konfigurasi Database
 1. Buat database baru di MySQL (misalnya **rumah_makan_db**).
 2. Import file **database.sql** yang ada di folder proyek ke dalam database.

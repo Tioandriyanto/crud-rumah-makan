@@ -3,7 +3,7 @@
 ## 📌 Deskripsi Proyek 
 **Belajar CRUD Rumah Makan** adalah sebuah proyek pembelajaran yang bertujuan unt uk memahami konsep dasar Create, Read, Update, dan Delete (CRUD) dalam pengelolaan data rumah makan. Proyek ini dibuat menggunakan teknologi web dengan backend berbasis **PHP dan MySQL** serta frontend menggunakan **HTML, CSS, dan JavaScript**. 
   
-## 🚀 Fitur Utama 
+## 🚀 Fitur Utama  
 - **Menambahkan Data**: Tambah menu makanan, pelanggan, dan pesanan.
 - **Menampilkan Data**: Lihat daftar menu, pelanggan, dan pesanan.
 - **Mengedit Data**: Ubah informasi menu, pelanggan, atau pesanan.

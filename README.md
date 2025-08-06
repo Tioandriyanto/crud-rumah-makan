@@ -9,7 +9,7 @@
 - **Mengedit Data**: Ubah informasi menu, pelanggan, atau pesanan.
 - **Menghapus Data**: Hapus data yang tidak diperlukan.
 - **Autentikasi**: Login dan logout untuk keamanan akses. 
- 
+  
 ## 🛠️ Teknologi yang Digunakan
 - **Backend**: PHP (Native/Laravel)
 - **Database**: MySQL
